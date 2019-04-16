@@ -118,15 +118,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/714a712dc155ccc6b0d825dbc258ec0d?d=identicon"
     },
     {
-      "id": "aa98596d-fea6-4686-90e1-93514b6dc011",
-      "firstName": "Antwan",
-      "lastName": "Walker",
-      "email": "Isom.Zboncak@yahoo.com",
-      "jobTitle": "Central Paradigm Executive",
-      "twitter": "AntwanWalker03371-3341",
-      "avatarUrl": "https://www.gravatar.com/avatar/45273652dd6323b8a2378e3208436180?d=identicon"
-    },
-    {
       "id": "8758e3df-00a6-424c-8878-ff6106a6f029",
       "firstName": "Kayla",
       "lastName": "McCullough",
@@ -456,14 +447,6 @@
       "email": "danielacvm@gmail.com",
       "twitter": "danielacvm",
       "id": "UJwxt5U"
-    },
-    {
-      "firstName": "Snoppy",
-      "lastName": "Dog",
-      "jobTitle": "Pets",
-      "email": "dog@example.com",
-      "twitter": "snoppydog",
-      "id": "rXP-yZW"
     }
   ]
 }
