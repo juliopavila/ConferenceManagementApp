@@ -448,6 +448,22 @@
       "email": "javila1997@gmail.com",
       "twitter": "juliopavila",
       "id": "UFPqdtU"
+    },
+    {
+      "firstName": "Daniela",
+      "lastName": "Villalobos",
+      "jobTitle": "Industrial Engineer",
+      "email": "danielacvm@gmail.com",
+      "twitter": "danielacvm",
+      "id": "UJwxt5U"
+    },
+    {
+      "firstName": "Snoppy",
+      "lastName": "Dog",
+      "jobTitle": "Pets",
+      "email": "dog@example.com",
+      "twitter": "snoppydog",
+      "id": "rXP-yZW"
     }
   ]
 }
