@@ -1,0 +1,13 @@
+.Homepage__hero {
+  width: 100%;
+  height: 100vh;
+  padding: 10rem 0;
+  margin: 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+}
+
+.label {
+  color: #ffffff;
+  padding: 2rem 0;
+}
