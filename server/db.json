@@ -163,15 +163,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/0b7dc92c5cbcc2159b5ed9cb5d074867?d=identicon"
     },
     {
-      "id": "7b8ac914-bb9d-4649-9ddd-fe1de2b82e79",
-      "firstName": "Paul",
-      "lastName": "Miller",
-      "email": "Dock5@gmail.com",
-      "jobTitle": "Lead Solutions Designer",
-      "twitter": "PaulMiller12518-9290",
-      "avatarUrl": "https://www.gravatar.com/avatar/17c1b1c79e9dfcb34e45561f06d704e6?d=identicon"
-    },
-    {
       "id": "f73bc968-7ac8-4ea8-a450-b1b7b9047030",
       "firstName": "Ozella",
       "lastName": "Schaefer",
@@ -445,7 +436,7 @@
       "lastName": "Villalobos",
       "jobTitle": "Industrial Engineer",
       "email": "danielacvm@gmail.com",
-      "twitter": "danielacvm",
+      "twitter": "danielita",
       "id": "UJwxt5U"
     }
   ]
